@@ -4,7 +4,7 @@ import serial.tools.list_ports as port_list
 from pathlib import Path
 from datetime import datetime
 
-Path("/sensor_logs/").mkdir(parents=True, exist_ok=True)
+# Path("/sensor_logs/").mkdir(parents=True, exist_ok=True)
 
 ports_init = list(port_list.comports())
 print("Please connect the device...")

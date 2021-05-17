@@ -16,7 +16,9 @@ Then on the command line you would get this message which shows the app is runni
 ```shell
 Please connect the device...
 ```
-
+####Note:
+>If you have Python 2 on your computer as well, you need to use `python3` instead of `python` and `pip3` instead of `pip`.
+---
 ### Connecting the toothbrush
 1- disconnect the device if you have already connected it to USB port.
 
