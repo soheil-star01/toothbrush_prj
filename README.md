@@ -1,5 +1,8 @@
 # Smart toothbrush
 
+![](https://github.com/soheil-star01/toothbrush_prj/blob/main/images/toothbrush%20(1).jpg)
+
+![](https://github.com/soheil-star01/toothbrush_prj/blob/main/images/toothbrush%20(2).jpg)
 
 ### Software installation
 To get data from the toothbrush you first need to have installed Python 3.X.X (64bit). 
