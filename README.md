@@ -1,4 +1,6 @@
 # Smart toothbrush
+
+
 ### Software installation
 To get data from the toothbrush you first need to have installed Python 3.X.X (64bit). 
 You can download the official setup file from [here.](https://www.python.org/downloads/)
